@@ -58,7 +58,7 @@ Examples:
 ### Developers Installation
     Instructions for clone in your development environment
 
-    git clone https://github.com/rjnp2/Phone-Number-to-Vanity-Word-python
+    git clone https://github.com/rjnp2/Phone-Number-to-Vanity-Word-python.git
     cd Phone-Number-to-Vanity-Word-python/
 
 ## Usage
