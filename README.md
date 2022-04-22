@@ -1,4 +1,4 @@
-# Phone-Number-to-Vanity-Word-python
+# Phone-Number-to-Vanity-Word-python (Assigment)
 
 Most phone dialpads have letters written on them where the letter/number mapping is defined
 according to the International Telecommunication Unions Standards. This allows businesses to
