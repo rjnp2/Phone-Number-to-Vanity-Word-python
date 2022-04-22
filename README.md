@@ -54,7 +54,6 @@ Examples:
 4. compare with dictionary file(dictionary.text file) if word exist in file or not
 
 ## Getting Started
-<hr>
 
 ### Developers Installation
     Instructions for clone in your development environment
@@ -63,7 +62,7 @@ Examples:
     cd Phone-Number-to-Vanity-Word-python/
 
 ## Usage
-<hr>
+
 open terminal 
 
     python number_to_vanity.py --number 228
